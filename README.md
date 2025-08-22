@@ -1,4 +1,4 @@
-# 🧠 General Assistant — Python · OpenAI Agents SDK · Chainlit
+# 🧠 General Assistant — Python · OpenAI Agents SDK · Chainlit - Assignment-1
 
 A simple AI agent built with **Python**, **OpenAI Agents SDK**, and **Chainlit**.  
 The bot uses **Google Gemini** (via the OpenAI-compatible endpoint) and provides an interactive web UI.
